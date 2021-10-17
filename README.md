@@ -1,9 +1,9 @@
 ## Caue Bertolino
 
  <div>
-  <a href="https://github.com/cauebertolino">
+  <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaueBertolino&show_icons=true&theme=dark&title_color=FFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauebertolino&theme=dark&layout=compact&langs_count=10&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauebertolino&theme=dark&layout=compact&langs_count=10&count_private=true&fetch=all"/>
 
 </div>
  <br>
