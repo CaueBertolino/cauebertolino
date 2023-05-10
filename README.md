@@ -7,7 +7,10 @@
 </div>
 <br>
 <div>
- <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=cauebertolino&theme=react-dark&count_private=true&custom_title=Caue%20Bertolino's%20Public%20Repositories%20Contribution%20Graph&color=FFFFFF" /></a>
+ <!--
+ <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=cauebertolino&theme=react-dark&count_private=true&custom_title=Caue%20Bertolino's%20Public%20Repositories%20Contribution%20Graph&color=FFFFFF" />
+ -->
+</a>
 </div>
 <br>
 </a>
