@@ -1,5 +1,5 @@
 ## Caue Bertolino
-
+ <!--
 <a href="#">
  <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaueBertolino&show_icons=true&theme=dark&title_color=FFF&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
 </div>
 <br>
 <div>
- <!--
+ 
  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=cauebertolino&theme=react-dark&count_private=true&custom_title=Caue%20Bertolino's%20Public%20Repositories%20Contribution%20Graph&color=FFFFFF" />
  -->
 </a>
